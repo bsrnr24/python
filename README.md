@@ -2,8 +2,6 @@
   - **#WORK-1**
 _I used pyautogui, webbrowser and time modules in my homework. With the Webbrowser module, I enabled it to open the website using the browser installed on the computer. I took a screenshot from the page I opened with the pyautogui module. With the Time module, I determined after how many seconds the page will be closed._
 
-<img src="./Ekran Görüntüsü (1).png" alt="foto" width="300" />
-
   - **#WORK-2**
 _I used tkinter and selenium modules in my homework. I used the Selenium module with the help of webdriver. I tried to open the account on Instagram according to the username with Webdriver. Thanks to Selenium, I got the follower count data of the account. Then I created the tkinter page. On this page I created, I printed the follower count data I received._
 
